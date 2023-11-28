@@ -1,7 +1,7 @@
 ### Hi👋 I am Abdullah Khan
 
 # 💫 About Me:
-🌱 Hi 👋, I'm Abdullah Khan<br>🌱 On the way of learning Advanced Machine Learning & Data Science
+🌱 On the way of learning Advanced Machine Learning & Data Science
 
 
 ## 🌐 Socials:
